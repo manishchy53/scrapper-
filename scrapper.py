@@ -15,6 +15,7 @@
 # git diff => if you want to check what are the changes
 # git add .
 # git commit -m "your message"
+# git push origin => update the code 
 # copy paste git from code
 
 
