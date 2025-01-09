@@ -2,6 +2,10 @@
 # => get data drom web (html, json, xml)
 # python -m pip install beautifulsoup4
 # => parse html
+
+# git config --global user.name"manishchy53"
+# git config --global user.name"manishchaudhary206153@gmail.com"
+
 import json 
 import requests
 from bs4 import BeautifulSoup
