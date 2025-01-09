@@ -18,6 +18,12 @@
 # git push origin => update the code 
 # copy paste git from code
 
+##################################
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "your message"
+# 4. git push origin 
+##################################
 
 import json 
 import requests
